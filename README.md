@@ -14,6 +14,6 @@ a single random effect, and nested random effects.)
 
 4) Looks at these results with ggplot2
 
-- to do
+- To do
 add how you can recover these paraemeter estimates with
 bayes (either using jags or stan) and compare with maximum likelihood (or REML)
