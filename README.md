@@ -5,7 +5,7 @@ as well as have an understanding of what random effects are.
 
 This scripts does:
 
-1) Show you how to simulated data with nested random effects 
+1) Show you how to simulated data with nested random effects \n
 2) How to model those data with lmer (glmm)
 3) Looks at how models perform with difference variance strucutres (i.e. no randome effects,
 a single random effect, and nested random effects.)
